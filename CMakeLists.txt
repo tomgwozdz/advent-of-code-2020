@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.17)
+
+project(advent_of_code_2020)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(day1-1 day1-1.cpp)
+add_executable(day1-2 day1-2.cpp)
+add_executable(day2-1 day2-1.cpp)
+add_executable(day2-2 day2-2.cpp)
